@@ -1,0 +1,16 @@
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\projetos\dotnetflix\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\projetos\dotnetflix\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
