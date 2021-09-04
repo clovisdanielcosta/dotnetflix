@@ -24,11 +24,12 @@ namespace DIO.Series
         {
             // Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
             string retorno = "";
+            retorno += "ID: " + this.Id + Environment.NewLine;
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Início: " + this.Ano;
-            retorno += "Excluído: " + this.Excluido;
+            retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
+            retorno += "Excluído: " + this.Excluido + Environment.NewLine;
             return retorno;
         }
         public string retornaTitulo() 
